@@ -1,3 +1,5 @@
 # para_optimization
-Resultant Graph
-![convergence_graph](https://github.com/user-attachments/assets/212d6fc2-7bb4-4e8a-bb5b-010cdc6c96ac)
+![convergence_graph](https://github.com/user-attachments/assets/5b7d12d7-bb6e-4060-8f63-671d7c677d87)
+
+
+
